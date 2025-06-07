@@ -1,0 +1,5 @@
+Player/Player.class
+com/rest_api/spring_projects/SpringProjectsApplication.class
+service/PlayerService.class
+Player/PlayerRepository.class
+controller/PlayerController.class
